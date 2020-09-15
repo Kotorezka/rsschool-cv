@@ -16,3 +16,10 @@
  - JavaScript (beginner)
  - Python (beginner)
 ##### 5. Code examples: All my projects you can find at my [GitHub](https://github.com/Kotorezka)
+##### 6. Work Experience: 
+- 404 error: Work experience not found.
+##### 7. Education:
+- 2015-2019 Samara state technical university [bachelor's degree in specialty "Automated information processing and control systems"]
+- 2019-2021 Samara university [master's degree in speciality "Automated Systems for Information Processing and Management"]
+##### 8. Languages:
+ - English / Upper-intermediate
