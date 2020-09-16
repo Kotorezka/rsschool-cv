@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #444;
+    background: rgb(21, 21, 21);
+  }
+
+.ava-pic {
+    height: 200px;
+    width: 150px;
+    -webkit-box-shadow:
+		inset 0 0 1px rgba(0,0,0,.8),
+		inset 0 2px 0 rgba(255,255,255,.5),
+		inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow:
+		inset 0 0 1px rgba(0,0,0,.8),
+		inset 0 2px 0 rgba(255,255,255,.5),
+		inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow:
+		inset 0 0 1px rgba(0,0,0,.8),
+		inset 0 2px 0 rgba(255,255,255,.5),
+		inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+  b{
+    color: rgb(256, 256, 256);
+    margin-left: -10px;
+  }
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+  address{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 15px;
+    left: 15px;
+  }
+.info {
+  justify-content: center;
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+}  
+  address *, .social-networks *{
+    margin: 5px 2px;
+    letter-spacing: 1px;
+  }
+  
+  .cv-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    width: 1024px;
+    border-radius: 10px;
+    margin: 100px auto;
+    background: #424242;
+    box-shadow: 10px 10px 15px 15px rgba(0, 0, 0, 0.7);
+    padding: 40px;
+    color: rgb(256, 256, 256, 0.7);
+    
+  }
+  .cv-content ul{
+    padding-left: 0;
+    list-style: none;
+  }
+  .cv-content ul li {
+    font-size: 17px;
+    line-height: 30px;
+  }
+  .cv-content h1{
+    font-size: 40px;
+    font-weight: 100;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 0;
+    color: rgb(256, 256, 256);
+  }
+
+  .social-networks{
+    position: relative;
+    top: 15px;
+    right: 15px;
+    
+  }
+  .icon{
+    border-radius: 200px;
+    opacity: 0.3;
+    width: 30px;
+    height: 30px;
+    opacity: 1.2;
+  }
+  .icon:hover{
+    opacity: 0.6;
+  }
+  .github-icon{
+    right: 15px;
+  }
+  .telegram-icon{
+    right: 55px;
+  }
+  .linkedin-icon{
+    right: 95px;
+    
+  }
